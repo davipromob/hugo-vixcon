@@ -1,4 +1,4 @@
-Customized Hugo Theme
+Customized Hugo Theme - vixcon
 ==============================
 Features include:
 * Hugo Theme
